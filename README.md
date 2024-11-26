@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shivamkaushikk.shivamkaushikk" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shivamkaushikk.Shivamkaushikk" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shivam+Kaushik!;" />
@@ -47,10 +47,10 @@
 <br>
 <div align="center">
   <!-- GitHub Streak Stats -->
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkaushikk&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamkaushikk&theme=react&border_radius=10" alt="streak stats"/>
   
   <!-- GitHub Profile Stats -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=shivamkaushikk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Shivamkaushikk&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   
   <!-- Top Languages -->
